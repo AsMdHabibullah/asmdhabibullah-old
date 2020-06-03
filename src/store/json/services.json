@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"title": "UX / UI Design",
+		"body": "I use Adobe XD, Photoshop, Illustrator, and Sketch software for UX/UI design."
+	},
+	{
+		"id": 2,
+		"title": "Web Design",
+		"body": "HTML, CSS, SASS, Bootstrap 4, Material Ui and many more dependencies I use to create a static site or template."
+	},
+	{
+		"id": 3,
+		"title": "Web Design",
+		"body": "HTML, CSS, SASS, Bootstrap 4, Material Ui and many more dependencies I use to create a static site or template."
+	},
+	{
+		"id": 4,
+		"title": "Android App Development",
+		"body": "I am well acquainted with ReactJs and React Native. It is very easy to do many complicated tasks."
+	},
+	{
+		"id": 5,
+		"title": "Ios App Development",
+		"body": "I can help you with the IOS Apps development because I am familiar with Reactjs and React Native."
+	},
+	{
+		"id": 6,
+		"title": "Custom Softwear Development",
+		"body": "It means it could be any type of software that I can build with Python and JavaScript."
+	}
+]

@@ -1,0 +1,31 @@
+[
+	{
+		"id": 1,
+		"time": "Feb - 15, Aug - 16",
+		"title": "Sample man.",
+		"company": "Square Apparels Limited",
+		"body": "It's a memorable moment because this is my first job. I can't forget it."
+	},
+	{
+		"id": 2,
+		"time": "Dec - 16, May -17",
+		"title": "GP & Robi Call Center Agent.",
+		"company": "Impel Service & Solutions Limited (ISSL)",
+		"body": "To better prepare yourself for the next time, there is no substitute for a call center job."
+	},
+	{
+		"id": 3,
+		"time": "Jul -17, Aug - 18",
+		"title": "SEO - Teacher & Web Application Developer.",
+		"company": "Bright Host It Instituet.",
+		"body": "I learn a lot from this company, which helps me to do professional work."
+	},
+
+	{
+		"id": 4,
+		"time": "Oct - 2018, Current",
+		"title": "Web Design & Developer.",
+		"company": "Giant Developer",
+		"body": "Now here, I am working with my new team and all of my team members is so helpful."
+	}
+]

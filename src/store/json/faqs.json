@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"question": "Have you done yet that's you're saying",
+		"answer": "Yes! I am done so many project and you can see all of the project."
+	},
+	{
+		"id": 2,
+		"question": "What kind of services you provide",
+		"answer": "Please again take a look at my offer section. I believe you will understand what I offer."
+	},
+	{
+		"id": 3,
+		"question": "Do you know what is responsive design",
+		"answer": "Yes! I am. I always do a responsive template design."
+	},
+	{
+		"id": 4,
+		"question": "What technology you use for responsive design",
+		"answer": "It depends on the client's requirements but I know Bootstrap 4, Material Ui, Material Design and like so many."
+	}
+]

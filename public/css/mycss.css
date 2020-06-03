@@ -1,0 +1,131 @@
+.active {
+	color: #30d110f8 !important;
+}
+
+#clients-testi {
+	opacity: 1;
+	display: block;
+}
+.owl-wrapper {
+	width: 4620px;
+	left: 0px;
+	display: block;
+	transform: translate3d(-770px, 0px, 0px);
+	transition: all ease 800ms 0s;
+}
+.owl-item {
+	width: 385px;
+}
+
+.fa-arrow-up {
+	widows: 100%;
+	height: 100%;
+	color: #fff;
+	position: relative;
+	margin: 8px auto;
+	display: block;
+}
+#back-to-top:hover {
+	background: #fff !important;
+}
+.fa-arrow-up:hover {
+	color: #30d110f8;
+}
+.click-top {
+	width: 33px;
+	opacity: 1;
+	display: block !important;
+	-webkit-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+.sidebar-img {
+	max-height: 180px;
+}
+
+.nave-social-icon {
+	width: 30px;
+	height: 30px;
+	background: #30d110f8;
+	display: inline-block;
+	margin: 2px;
+	border: 0.5px solid #30d110f8;
+	border-radius: 50%;
+}
+
+.nave-social-icon:hover {
+	background-color: #fff;
+	transition: all 0.3s ease-in-out;
+}
+
+.fa.fa-facebook,
+.fa.fa-twitter,
+.fa.fa-linkedin,
+.fa.fa-github {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	border-radius: 50%;
+}
+
+.fa.fa-facebook:hover,
+.fa.fa-twitter:hover,
+.fa.fa-linkedin:hover,
+.fa.fa-github:hover {
+	color: #30d110f8;
+	background: #fff;
+	transition: all 0.3s ease-in-out;
+}
+.window-wrap {
+	width: 100%;
+	height: 700px;
+	position: fixed;
+	background: transparent;
+	margin-top: 340px;
+	opacity: 0;
+	z-index: 100000;
+}
+
+.answer {
+	overflow: hidden !important;
+	transition: height 0.5s ease-in-out;
+}
+.answershow {
+	transition: height 0.5s ease-in-out;
+}
+.title.text-muted.question {
+	color: #30d110f8 !important;
+	border: 1px dotted #30d110f8 !important;
+	padding: 15px;
+}
+.answer.answershow {
+	color: #000000 !important;
+}
+
+.col-lg-4.col-md-6.p-0.web {
+	min-height: 350px;
+	max-height: 350px;
+	padding: 30px !important;
+}
+
+.cta-full.bg-light {
+	min-height: 700px !important;
+	max-height: auto !important;
+}
+.clients-testi {
+	opacity: 1;
+	display: block;
+}
+.owl-item {
+	width: 385px !important;
+}
+.owl-wrapper {
+	width: 4620px;
+	left: 0px;
+	display: block;
+	transform: translate3d(-770px, 0px, 0px);
+	transition: all 800ms ease 0s;
+}

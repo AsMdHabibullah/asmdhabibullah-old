@@ -1,0 +1,34 @@
+{
+  "name": "asmdhabibullah",
+  "version": "1.0.0",
+  "description": "Profile",
+  "main": "index.js",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-source-maps": "0.0.3",
+    "next": "^9.3.5",
+    "next-images": "^1.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scroll": "^1.7.16",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsMdHabibullah/asmdhabibullah.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsMdHabibullah/asmdhabibullah/issues"
+  },
+  "homepage": "https://github.com/AsMdHabibullah/asmdhabibullah#readme",
+  "proxy": "http://localhost:4000"
+}

@@ -1,0 +1,73 @@
+{
+	"Skills": [
+		{
+			"id": 1,
+			"name": "UX / UI Design",
+			"description": "I use Adobe XD, Photoshop, Illustrator, and Sketch software for UX/UI design."
+		},
+		{
+			"id": 2,
+			"name": "UX / UI Design",
+			"description": "I use Adobe XD, Photoshop, Illustrator, and Sketch software for UX/UI design."
+		},
+		{
+			"id": 3,
+			"name": "UX / UI Design",
+			"description": "I use Adobe XD, Photoshop, Illustrator, and Sketch software for UX/UI design."
+		}
+	],
+	"Services": [
+		{
+			"id": 1,
+			"title": "UX / UI Design",
+			"body": "I use Adobe XD, Photoshop, Illustrator, and Sketch software for UX/UI design."
+		},
+		{
+			"id": 2,
+			"title": "Web Design",
+			"body": "HTML, CSS, SASS, Bootstrap 4, Material Ui and many more dependencies I use to create a static site or template."
+		},
+		{
+			"id": 3,
+			"title": "Web Design",
+			"body": "HTML, CSS, SASS, Bootstrap 4, Material Ui and many more dependencies I use to create a static site or template."
+		},
+		{
+			"id": 4,
+			"title": "Android App Development",
+			"body": "I am well acquainted with ReactJs and React Native. It is very easy to do many complicated tasks."
+		},
+		{
+			"id": 5,
+			"title": "Ios App Development",
+			"body": "I can help you with the IOS Apps development because I am familiar with Reactjs and React Native."
+		},
+		{
+			"id": 6,
+			"title": "Custom Softwear Development",
+			"body": "It means it could be any type of software that I can build with Python and JavaScript."
+		}
+	],
+	"Faq": [
+		{
+			"id": 1,
+			"question": "Have you done yet that's you're saying",
+			"answer": "Yes! I am done so many project and you can see all of the project."
+		},
+		{
+			"id": 2,
+			"question": "What kind of services you provide",
+			"answer": "Please again take a look at my offer section. I believe you will understand what I offer."
+		},
+		{
+			"id": 3,
+			"question": "Do you know what is responsive design",
+			"answer": "Yes! I am. I always do a responsive template design."
+		},
+		{
+			"id": 4,
+			"question": "What technology you use for responsive design",
+			"answer": "It depends on the client's requirements but I know Bootstrap 4, Material Ui, Material Design and like so many."
+		}
+	],
+}

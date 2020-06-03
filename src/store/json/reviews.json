@@ -1,0 +1,57 @@
+[{
+        "id": 1,
+        "project_name": "Protfolio",
+        "client_name": "hawk_mahmud",
+        "client_img": "images/client-01.png",
+        "country": "Australia",
+        "sayes": "Awsome developement skills. will order again."
+    },
+    {
+        "id": 2,
+        "project_name": "Graphics Design",
+        "client_name": "hawk_mahmud",
+        "client_img": "images/client-01.png",
+        "country": "Australia",
+        "sayes": "Great service... will order again."
+    },
+    {
+        "id": 3,
+        "project_name": "Graphics Design",
+        "client_name": "ailema",
+        "client_img": "images/client-01.png",
+        "country": "South Africa",
+        "sayes": "Thanks for the help, Will order again."
+    },
+    {
+        "id": 4,
+        "project_name": "Wordpress Web Design",
+        "client_name": "hawk_mahmud",
+        "client_img": "images/client-01.png",
+        "country": "Australia",
+        "sayes": "Great services again... I keep ordering with this cool guy... He delivers on time and quality works."
+    },
+    {
+        "id": 5,
+        "project_name": "SEO & Digital marketing",
+        "client_name": "thaisrandall",
+        "client_img": "images/client-01.png",
+        "country": "Australia",
+        "sayes": "Excelent guy and trusted. Great service. will order again."
+    },
+    {
+        "id": 6,
+        "project_name": "SEO & Digital marketing",
+        "client_name": "thaisrandall",
+        "client_img": "images/client-01.png",
+        "country": "United Kingdom",
+        "sayes": "Outstanding Experience!"
+    },
+    {
+        "id": 7,
+        "project_name": "SEO & Digital marketing",
+        "client_name": "maddkatdj",
+        "client_img": "images/client-01.png",
+        "country": "United Kingdom",
+        "sayes": "Outstanding Experience!"
+    }
+]
